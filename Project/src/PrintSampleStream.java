@@ -13,7 +13,8 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class PrintSampleStream {
     public static void main(String[] args) {
-        ConfigurationBuilder cb = new ConfigurationBuilder();
+    	//bla
+    	ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true);
         cb.setOAuthConsumerKey("p4h5GnRN1PifAiLqPq6Advsgv");
         cb.setOAuthConsumerSecret("zJWx8uzmRjZvEx1idTb3M3HrbcnzKsfVYKhFmnlRo4mdrCVil6");
